@@ -6,27 +6,27 @@
 
 🅀🅄🄰🅃🄴🅁 3 <br>
 
-༻ 1. Using self
-༻ 2. Using cls
-༻ 3. Public Variables and Methods
-༻ 4. Class Variables and Class Methods
-༻ 5. Static Variables and Static Methods
-༻ 6. Constructors and Destructors
-༻ 7. Access Modifiers: Public, Private, and Protected
-༻ 8. The super() Function
-༻ 9. Abstract Classes and Methods
-༻ 10. Instance Methods
-༻ 11. Class Methods
-༻ 12. Static Methods
-༻ 13. Composition
-༻ 14. Aggregation
-༻ 15. Method Resolution Order (MRO) and Diamond Inheritance
-༻ 16. Function Decorators
-༻ 17. Class Decorators
-༻ 18. Property Decorators: @property, @setter, and @deleter
-༻ 19. callable() and __call__()
-༻ 20. Creating a Custom Exception
-༻ 21. Make a Custom Class Iterable
+༻ 1. Using self <br>
+༻ 2. Using cls <br>
+༻ 3. Public Variables and Methods <br>
+༻ 4. Class Variables and Class Methods <br>
+༻ 5. Static Variables and Static Methods <br>
+༻ 6. Constructors and Destructors <br>
+༻ 7. Access Modifiers: Public, Private, and Protected <br>
+༻ 8. The super() Function <br>
+༻ 9. Abstract Classes and Methods <br>
+༻ 10. Instance Methods <br>
+༻ 11. Class Methods <br>
+༻ 12. Static Methods <br>
+༻ 13. Composition <br>
+༻ 14. Aggregation <br>
+༻ 15. Method Resolution Order (MRO) and Diamond Inheritance <br>
+༻ 16. Function Decorators <br>
+༻ 17. Class Decorators <br>
+༻ 18. Property Decorators: @property, @setter, and @deleter <br>
+༻ 19. callable() and __call__() <br>
+༻ 20. Creating a Custom Exception <br>
+༻ 21. Make a Custom Class Iterable <br>
 
 # GIAIC Q3
 Governor Sindh IT Initiative Repositories<br>
