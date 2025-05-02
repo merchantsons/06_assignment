@@ -1,0 +1,17 @@
+# 16. Function Decorators by merchantsons
+
+def log_function_call(func):
+    def wrapper(*args, **kwargs):
+        print("Function is being called")
+        return func(*args, **kwargs)
+    return wrapper
+
+@log_function_call
+def say_hello():
+    print("Hello!")
+
+# Example usage:
+say_hello()
+# Output:
+# Function is being called
+# Hello!
